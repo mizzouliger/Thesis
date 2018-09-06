@@ -1,0 +1,26 @@
+steps to install gensim on ubuntu
+
+1. sudo apt-get install gfortran libopenblas-dev liblapack-dev
+2. pip install scipy
+3. pip install numpy
+4. pip install --upgrade gensim
+5. sudo pip install --ignore-installed six
+
+
+------------------------------------------------
+debug -> how do you debug tests ?
+flow in criteria tests and how the tests in criteriaSets are executed.
+change webDriver settings
+what if you get http errors. how do you log, console log that ?
+
+
+----------------------------------------------------
+
+shadowing questions
+
+technology and what the new team is going to use
+business and how that even decides it
+what makes sense - to make code run faster, lighter and be more polymorphic
+OCR, Encompass Codebases and Plug-Ins - what are these codebases and plug-ins ?
+
+---------------------------------------------------------
